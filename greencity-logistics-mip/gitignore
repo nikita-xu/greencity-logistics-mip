@@ -1,0 +1,17 @@
+# Gurobi license / credentials — never commit
+gurobi.lic
+*.lic
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Data (course-provided; see data/README.md)
+data/*.csv
+
+# OS
+.DS_Store
